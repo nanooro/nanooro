@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(fieldblured2.jpg);
+  background-image: url(/fieldblured2.jpg);
 }
 .heading {
   text-align: center;
