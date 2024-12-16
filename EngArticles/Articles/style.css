@@ -32,6 +32,7 @@ body {
   position: absolute;
   top: 0;
   bottom: 0;
+  width: 70vh;
 }
 .card p {
   word-wrap: break-word;
