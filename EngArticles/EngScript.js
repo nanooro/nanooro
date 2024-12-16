@@ -4,5 +4,5 @@ arrowBack.addEventListener("click", (event) => {
 });
 const article1 = document.getElementById("article1");
 article1.addEventListener("click", (event) => {
-  window.location.href = "articles/artical.html";
+  window.location.href = "./articles/artical.html";
 });
